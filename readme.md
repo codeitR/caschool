@@ -1,4 +1,6 @@
 # This is school project.
 
-    # design of SquareEye is from figma(design I)
+    # design of SquareEye from figma(design I)
     #
+
+# All work is done in folder before creating repo and pushing it to github.
