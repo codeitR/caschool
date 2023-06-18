@@ -58,7 +58,7 @@ input {
 /* Reusable CSS */
 .container {
   position: relative;
-  max-width: 1280px;
+  max-width: 1750px;
   width: 100%;
   margin: 0 auto;
   border-radius: var(--border-radius-12);
@@ -159,12 +159,24 @@ body {
   margin-block: 30px 80px;
   cursor: default;
   font-size: var(--big-font);
-  background: conic-gradient(from 180deg at 50% 50%, #0890da -151.87deg, #d17874 153.75deg, #0890da 208.13deg, #d17874 513.75deg);
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #0890da -151.87deg,
+    #d17874 153.75deg,
+    #0890da 208.13deg,
+    #d17874 513.75deg
+  );
 }
 .button::before {
   height: 90%;
   width: 98%;
-  background: conic-gradient(from 180deg at 50% 50%, #d17874 -151.87deg, #0890da 153.75deg, #d17874 208.13deg, #0890da 513.75deg);
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #d17874 -151.87deg,
+    #0890da 153.75deg,
+    #d17874 208.13deg,
+    #0890da 513.75deg
+  );
   border-radius: var(--border-radius-8);
 }
 .button span {
@@ -270,7 +282,11 @@ body {
 
 /* Home Section */
 .home_container {
-  background: linear-gradient(105.04deg, rgba(33, 41, 42, 0.72) 36.85%, rgba(31, 112, 163, 0.72) 92.61%);
+  background: linear-gradient(
+    105.04deg,
+    rgba(33, 41, 42, 0.72) 36.85%,
+    rgba(31, 112, 163, 0.72) 92.61%
+  );
   padding: 20px;
 }
 .home_container .row {
@@ -370,7 +386,12 @@ body {
 .footer_section {
   margin-top: 50px;
   padding: 15px 30px;
-  background: conic-gradient(from -83.76deg at 50% 50%, rgba(68, 97, 164, 0.5) 0deg, rgba(146, 58, 115, 0.1) 163.75deg, rgba(68, 97, 164, 0.5) 360deg);
+  background: conic-gradient(
+    from -83.76deg at 50% 50%,
+    rgba(68, 97, 164, 0.5) 0deg,
+    rgba(146, 58, 115, 0.1) 163.75deg,
+    rgba(68, 97, 164, 0.5) 360deg
+  );
 }
 .social_media div {
   color: #fff;
