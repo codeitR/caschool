@@ -4,3 +4,5 @@
     #
 
 # All work is done in folder before creating repo and pushing it to github.
+
+## page is resposive
