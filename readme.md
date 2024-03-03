@@ -53,7 +53,7 @@ You can list a the tech stack that you've used over here
 ## Contact
 If you like to discusse about this project or have some suggestions or would like to work together in this you are more than wel come to contact me. 
 
-[My LinkedIn page](www.linkedin.com)
+[E-mail](mailto:ghimire.9@gmail.com")
 
 ## Acknowledgments
 Lots code are from modules HTML&CSS, and some of the section are youtube pair coding with copywrite clearence.Thank you to all teachers and studensts helping out to craete this site.
